@@ -1,0 +1,47 @@
+	
+	table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        margin: 50px auto; 
+        border-collapse: collapse;
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    text-align: center;
+}
+  
+  table, th, td {
+  border: 1px solid black;
+}
+
+th {
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: lightblue;
+    color: rgb(16, 13, 13);
+}
+tr:hover {background-color: #ddd;}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2, h3 {text-align: center;}
+
+.myDiv {
+  border: 2px outset rgb(9, 5, 5);
+  background-color: lightblue;    
+  text-align: center;
+  width: auto;
+}
+ul {
+  text-align: center;
+  list-style: inside;
+}
